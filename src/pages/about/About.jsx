@@ -77,7 +77,7 @@ const About = () => {
               <br />
               <br />
               <p>
-                <span>Email: </span> <span>harzi@hardiharzi.com</span>
+                <span>Email: </span> <span>bluevils@gmail.com</span>
               </p>
               <p>
                 <span>Phone: </span> <span>+6281234567890</span>
@@ -178,7 +178,7 @@ const About = () => {
               <span>
               Hope you&apos;re ready to jump into the mind of an artist who&apos;s only slightly unbalanced, but in the best way possible.
               <br/>
-              harzi@hardiharzi.com
+              bluevils@gmail.com
               </span>
             </p>
 

@@ -51,10 +51,10 @@ const Home = () => {
       </div>
       <div className="hero-copy">
         <div className="hero-copy-wrapper">
-          <h1>Hardi</h1>
+          <h1>BLUE</h1>
         </div>
         <div className="hero-copy-wrapper">
-          <h1>Harzi</h1>
+          <h1>EVILS</h1>
         </div>
       </div>
 
